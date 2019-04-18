@@ -1,1 +1,1 @@
-# cpu_scheduling
+# cpu_scheduling program in c language
